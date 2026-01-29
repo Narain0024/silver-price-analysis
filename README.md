@@ -69,6 +69,7 @@ powerbi/silver_price_dashboard.pbix
 ## 🖼 Dashboard Preview
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 
+
 ---
 
 ## 📁 Project Structure
